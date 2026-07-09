@@ -9,6 +9,7 @@ Each skill is a folder with a `SKILL.md` file: YAML frontmatter (`name` + `descr
 | Skill | What it does |
 |-------|--------------|
 | [`find-unknowns`](skills/find-unknowns) | Maps the unknowns in an idea, feature, or plan before they get expensive — a blind-spot pass, a known/unknown quadrant map, and a decision-changing interview. Reach for it to de-risk a decision, stress-test a pivot, or answer "what am I missing?" |
+| [`deep-write`](skills/deep-write) | Turns a raw thought dump into a publish-ready essay plus an X thread and a LinkedIn post, with deep research at every stage. Ships with a retunable house voice, output templates, and a self-evolving profile layer that each user grows from empty. |
 
 More to come.
 
