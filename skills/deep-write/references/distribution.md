@@ -76,6 +76,19 @@ what you checked. See SKILL.md operating principle 7b.
 - Midday and afternoon: spaced quote-tweets.
 - Next day: reshare or post the carousel.
 
+## X format: numbered thread vs single long-form post
+
+Default is a numbered thread (below). If the author has X Premium, offer a
+single flowing long-form post instead, especially for narrative/story-shaped
+pieces (a debugging postmortem, a founder story). Numbered tweets create
+artificial beat boundaries, and this author's drafts specifically show a
+tendency to fill each boundary with a "label: reveal" tee-up (see
+`references/no-ai-slop.md`) to make the next tweet feel earned. The same story
+told as continuous prose usually needs none of those tee-ups and reads less
+AI-ish, not more, despite being longer. Keep the same hook-first opening,
+link-at-the-end rule, and aphoristic close either way. Run the no-ai-slop check
+on whichever version ships.
+
 ## X thread shape
 
 Link-free hook tweet leading with the contrarian number and a 🧵. One idea per
