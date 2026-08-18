@@ -31,6 +31,12 @@ note, whole lifecycle" file so the making-of travels with the finished piece.
 5. **Land the plane on one line.** Close on a single aphoristic sentence.
 6. **No em-dashes.** Use commas or colons instead, in the copy and in these
    drafts. This is a hard rule. See `references/voice.md`.
+6b. **Run the no-ai-slop check before every gate.** Colon-reveals ("the weird
+   part: X"), plot-twist labels ("final twist:"), throat-clearing openers,
+   fake-profound kickers, and banned filler words are cut on sight, in the
+   essay and in every distribution artifact. Two or more of the same tee-up
+   shape across one piece is the strongest tell; fix all instances, not just
+   the obvious one. See `references/no-ai-slop.md`.
 7. **You draft, the human ships.** Produce ready-to-post drafts. Do not push
    git, publish a blog, or post to social.
 7b. **Do the work, never pass the buck.** Do not hand the author a task you could
@@ -125,6 +131,7 @@ or dig deeper on. This is where thin claims get caught before they reach prose.
 ### Stage 5: Polish to publish-ready
 
 - Tighten to the published register. Run the self-check below.
+- Run the no-ai-slop check (`references/no-ai-slop.md`) on the full essay.
 - Verify there are zero em-dashes. Verify every claim carries a source and every
   single-sourced claim is softened and flagged.
 - **Verify every link resolves.** Curl each URL and flag any 404 (a real break,
@@ -152,10 +159,20 @@ port the X/LinkedIn copy to another platform unedited.
 
 Produce the core pack, following `references/distribution.md`:
 
-- **X thread:** link-free hook tweet leading with the contrarian number, one
-  idea per numbered tweet mirroring the essay sections, genuine @-attribution
-  inline, disclosure inline if relevant, link only in the final tweet. Include
-  1 to 2 quote-tweet posts for launch day (QT the exact post you are rebutting).
+- **X thread (or single long-form post for X Premium authors):** default is a
+  link-free hook tweet leading with the contrarian number, one idea per
+  numbered tweet mirroring the essay sections, genuine @-attribution inline,
+  disclosure inline if relevant, link only in the final tweet. If the author
+  has X Premium (check `profile/platforms.md`, ask once if unknown, and cache
+  the answer there), offer a single flowing long-form post as the alternative
+  for narrative/story-shaped pieces: numbered tweet-boundaries tend to
+  manufacture colon-reveal tee-ups (see `references/no-ai-slop.md`), and a
+  continuous story often reads less AI-ish than the same beats chopped into a
+  thread. Either way, include 1 to 2 quote-tweet posts for launch day (QT the
+  exact post you are rebutting).
+- **Run the no-ai-slop check** (`references/no-ai-slop.md`) on every
+  distribution artifact before presenting it, not just the essay. Count
+  repeated tee-up shapes across the whole pack, not per-sentence.
 - **LinkedIn post:** native long-form, complete without a click, hook in the
   first two lines before the fold, short paragraphs with whitespace, close on a
   question, 5 trailing hashtags, and the link in a first comment you post
@@ -229,6 +246,13 @@ the author's approval. If the `profile/` files do not exist, create them first.
 - [ ] Every quote-tweet target, link, stat, and asset is a real, verified, linked
       thing (curl-checked), not a "go find one" instruction handed to the author.
       Any remaining TODO says exactly why it is blocked and what you already tried.
+- [ ] Essay and every distribution artifact pass the no-ai-slop check
+      (`references/no-ai-slop.md`): no colon-reveals, plot-twist labels,
+      throat-clearing openers, fake-profound kickers, banned filler words, or
+      off-shape sentence structures (negative parallelism, dramatic
+      countdowns, weak-third tricolons, fragment-question-answers, false
+      ranges, participle tails). A repeated tee-up shape across the pack is
+      fixed everywhere it appears.
 
 ## Optional accelerators
 

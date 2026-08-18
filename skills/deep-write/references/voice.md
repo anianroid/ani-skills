@@ -16,6 +16,10 @@ published pieces to recalibrate.
 - **First person, personal stakes.** The author is in the essay, including
   self-deprecation. "I built a calendar scheduling app." "I hit all of this
   running a fleet." "The part I didn't expect."
+- **No colon-reveal tee-ups.** "The weird part: X." "Final twist: X." State the
+  fact directly instead. A colon before a genuine list, a label, or a quote is
+  fine; a colon used as a drumroll before a single dramatic payoff is not. Full
+  checklist and rationale in `references/no-ai-slop.md`.
 
 ## Structural moves
 
